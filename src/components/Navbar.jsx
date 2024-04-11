@@ -26,7 +26,7 @@ const Navbar = () => {
             </img>
             <p className="text-white text-[18px] font-bold cursor-pointer flex">
               Evgeny &nbsp;
-              <span className="sm:block hidden">| Software dev
+              <span className="sm:block hidden">| Software developer
               </span>
             </p>
 
