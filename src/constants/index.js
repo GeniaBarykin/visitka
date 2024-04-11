@@ -28,15 +28,15 @@ import {
   export const navLinks = [
     {
       id: "about",
-      title: "About",
+      title: "Обо мне",
     },
     {
       id: "work",
-      title: "Work",
+      title: "Работы",
     },
     {
       id: "contact",
-      title: "Contact",
+      title: "Контакт",
     },
   ];
   
@@ -54,7 +54,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Git, Docker,CI|CD",
       icon: creator,
     },
   ];
@@ -116,55 +116,42 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Стажер IT отдела",
+      company_name: "АО Фармстандарт",
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "Сентябрь 2020 - Февраль 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Автоматизация задач при помощи скриптов, работа с виртуальными серверами Linux."
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "Fullstack разработчик",
+      company_name: "Irdeto",
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Февраль 2021 - Июль 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Работа по устранению багов системы и добавлению нового функционала используя React и nodeJS.",
+        "Тестирование с использованием CI/CD, создание Jest тестов."
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
+      title: "Backend разработчик",
+      company_name: "Pluxbox",
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Февраль 2022 - Июль 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Cоздание веб блоков для онлайн конструктора и создание мониторинговой системы для облачного сервиса на базе ELK Stack.",
+        "Работа с Docker контейнерами."
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
+      title: "Разработчик микросервисов",
+      company_name: "AS Watson Group",
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Февраль 2023 - Июль 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "разработка микросервисов для обработки и передачи данных в режиме реального времени на базе Kafka.", 
+        " Миграция c Apache Kafka на Confluent Kafka с подключением к MongoDB.",
       ],
     },
   ];
