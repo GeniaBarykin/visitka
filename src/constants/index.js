@@ -27,8 +27,8 @@ import {
       title: "Обо мне",
     },
     {
-      id: "work",
-      title: "Работы",
+      id: "experience",
+      title: "Опыт",
     },
     {
       id: "contact",
@@ -93,16 +93,8 @@ import {
       icon: mongodb,
     },
     {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
       name: "git",
       icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
     },
     {
       name: "docker",
