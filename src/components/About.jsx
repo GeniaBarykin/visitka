@@ -41,7 +41,7 @@ const About = () => {
     <>
       <motion.div>
         <p className={styles.sectionSubText}>
-          Introduction
+          Представление
         </p>
         <h2 className={styles.sectionHeadText}>
           Обзор

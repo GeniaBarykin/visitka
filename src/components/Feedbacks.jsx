@@ -4,7 +4,6 @@ import {styles} from '../styles'
 import { SectionWrapper } from '../hoc'
 import { fadeIn, textVariant } from '../utils/motion'
 
-import { testimonials } from '../constants'
 
 const Feedbacks = () => {
   return (
